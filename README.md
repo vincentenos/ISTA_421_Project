@@ -3,3 +3,6 @@ I am uploading the zip file so this must be used, in the code the unzipped file 
 the line where the file is created is 
 dfm.to_csv("vehicle_collision_subset.csv", index = False)
 This will be the final file used for regression, all other exploratory and data handling prior to this were done on original file. 
+
+Original data can be found here https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data 
+Go to actions section and query all data up until october 3rd,  this can then be downloaded. 
